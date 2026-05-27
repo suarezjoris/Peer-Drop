@@ -1,0 +1,14 @@
+# Compiled binary
+peer-drop
+peer-drop.exe
+
+# Go build artifacts
+*.o
+*.a
+*.so
+
+# Test cache
+*.test
+
+# Config file (contains user-specific settings)
+config.json
